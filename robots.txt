@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://engineering-plastic-ca.pages.dev/sitemap.xml
